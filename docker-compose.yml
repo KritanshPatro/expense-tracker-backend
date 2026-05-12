@@ -39,7 +39,7 @@ services:
       - mysql-db:/var/lib/mysql
 
   userservice:
-    image: saspal02/user-service
+    image: kritanshpatro/user-service
     container_name: user-service
     env_file:
       - .env
@@ -52,7 +52,7 @@ services:
       - authservice
 
   authservice:
-    image: saspal02/auth-service
+    image: kritanshpatro/auth-service
     container_name: auth-service
     env_file:
       - .env
@@ -64,7 +64,7 @@ services:
       - mysql
 
   expenseservice:
-    image: saspal02/expense-service
+    image: kritanshpatro/expense-service
     container_name: expense-service
     env_file:
       - .env
@@ -81,7 +81,7 @@ services:
       - mysql
 
   dsservice:
-    image: saspal02/ds-service
+    image: kritanshpatro/ds-service
     container_name: ds-service
     env_file:
       - .env
