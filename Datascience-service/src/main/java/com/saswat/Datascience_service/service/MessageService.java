@@ -1,7 +1,7 @@
-package com.saswat.Datascience_service.service;
+package com.kritansh.Datascience_service.service;
 
-import com.saswat.Datascience_service.entities.Expense;
-import com.saswat.Datascience_service.utils.MessagesUtil;
+import com.kritansh.Datascience_service.entities.Expense;
+import com.kritansh.Datascience_service.utils.MessagesUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -26,3 +26,4 @@ public class MessageService {
         }
     }
 }
+

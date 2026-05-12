@@ -30,3 +30,4 @@ public class RefreshToken {
     private UserInfo userInfo;
 
 }
+

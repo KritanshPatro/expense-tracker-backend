@@ -1,4 +1,4 @@
-package com.saswat.Datascience_service.utils;
+package com.kritansh.Datascience_service.utils;
 
 import org.springframework.stereotype.Component;
 
@@ -31,3 +31,4 @@ public class MessagesUtil {
         return matcher.find();
     }
 }
+

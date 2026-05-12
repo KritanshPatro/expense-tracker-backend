@@ -22,3 +22,4 @@ public class UserRole {
     private String name;
 
 }
+

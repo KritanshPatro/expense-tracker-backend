@@ -1,4 +1,4 @@
-package com.saswat.Expense_service.dto;
+package com.kritansh.Expense_service.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -55,3 +55,4 @@ public class ExpenseDto {
     }
 
 }
+

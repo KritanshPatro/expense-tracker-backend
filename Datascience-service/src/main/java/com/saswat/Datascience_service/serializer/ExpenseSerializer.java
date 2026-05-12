@@ -1,7 +1,7 @@
-package com.saswat.Datascience_service.serializer;
+package com.kritansh.Datascience_service.serializer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.saswat.Datascience_service.entities.Expense;
+import com.kritansh.Datascience_service.entities.Expense;
 import org.apache.kafka.common.serialization.Serializer;
 
 import java.util.Map;

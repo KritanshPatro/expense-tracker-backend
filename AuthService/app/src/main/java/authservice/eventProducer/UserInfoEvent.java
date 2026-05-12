@@ -19,3 +19,4 @@ public class UserInfoEvent {
     private String email;
     private String userId;
 }
+

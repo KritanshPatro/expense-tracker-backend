@@ -1,6 +1,6 @@
-package com.saswat.Datascience_service.service;
+package com.kritansh.Datascience_service.service;
 
-import com.saswat.Datascience_service.entities.Expense;
+import com.kritansh.Datascience_service.entities.Expense;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
 
@@ -33,3 +33,4 @@ public class LLMService {
 
 
 }
+

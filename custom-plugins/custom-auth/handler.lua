@@ -36,3 +36,4 @@ function CustomAuthHandler:access(config)
 end
 
 return CustomAuthHandler
+

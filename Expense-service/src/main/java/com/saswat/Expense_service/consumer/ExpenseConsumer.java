@@ -1,7 +1,7 @@
-package com.saswat.Expense_service.consumer;
+package com.kritansh.Expense_service.consumer;
 
-import com.saswat.Expense_service.dto.ExpenseDto;
-import com.saswat.Expense_service.service.ExpenseService;
+import com.kritansh.Expense_service.dto.ExpenseDto;
+import com.kritansh.Expense_service.service.ExpenseService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
@@ -27,3 +27,4 @@ public class ExpenseConsumer {
         }
     }
 }
+

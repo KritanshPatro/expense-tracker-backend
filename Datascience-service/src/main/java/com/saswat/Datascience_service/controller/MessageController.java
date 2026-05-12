@@ -1,9 +1,9 @@
-package com.saswat.Datascience_service.controller;
+package com.kritansh.Datascience_service.controller;
 
-import com.saswat.Datascience_service.entities.Expense;
-import com.saswat.Datascience_service.entities.MessageRequestDto;
-import com.saswat.Datascience_service.eventProducer.ExpenseProducer;
-import com.saswat.Datascience_service.service.MessageService;
+import com.kritansh.Datascience_service.entities.Expense;
+import com.kritansh.Datascience_service.entities.MessageRequestDto;
+import com.kritansh.Datascience_service.eventProducer.ExpenseProducer;
+import com.kritansh.Datascience_service.service.MessageService;
 import jakarta.annotation.Nonnull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -39,3 +39,4 @@ public class MessageController {
         return "Hello world";
     }
 }
+

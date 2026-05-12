@@ -63,3 +63,4 @@ application {
     // Define the main class for the application.
     mainClass = 'authservice.App'
 }
+

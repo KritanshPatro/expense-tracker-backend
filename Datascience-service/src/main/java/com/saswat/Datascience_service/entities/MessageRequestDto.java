@@ -1,4 +1,4 @@
-package com.saswat.Datascience_service.entities;
+package com.kritansh.Datascience_service.entities;
 
 import lombok.Data;
 import lombok.Getter;
@@ -11,3 +11,4 @@ public class MessageRequestDto {
     private String message;
 
 }
+

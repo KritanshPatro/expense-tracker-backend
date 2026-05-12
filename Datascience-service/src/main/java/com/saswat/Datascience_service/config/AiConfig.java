@@ -1,4 +1,4 @@
-package com.saswat.Datascience_service.config;
+package com.kritansh.Datascience_service.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;
@@ -14,3 +14,4 @@ public class AiConfig {
     }
 
 }
+

@@ -24,3 +24,4 @@ public class AuthRequestDTO {
     )
     private String password;
 }
+

@@ -1,6 +1,6 @@
-package com.saswat.Datascience_service.eventProducer;
+package com.kritansh.Datascience_service.eventProducer;
 
-import com.saswat.Datascience_service.entities.Expense;
+import com.kritansh.Datascience_service.entities.Expense;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
@@ -23,3 +23,4 @@ public class ExpenseProducer {
         System.out.println("Send Kafka event to consumer");
     }
 }
+

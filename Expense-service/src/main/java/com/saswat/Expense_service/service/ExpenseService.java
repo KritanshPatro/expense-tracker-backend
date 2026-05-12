@@ -1,10 +1,10 @@
-package com.saswat.Expense_service.service;
+package com.kritansh.Expense_service.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.saswat.Expense_service.dto.ExpenseDto;
-import com.saswat.Expense_service.entities.Expense;
-import com.saswat.Expense_service.repository.ExpenseRepository;
+import com.kritansh.Expense_service.dto.ExpenseDto;
+import com.kritansh.Expense_service.entities.Expense;
+import com.kritansh.Expense_service.repository.ExpenseRepository;
 import lombok.AllArgsConstructor;
 import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -62,3 +62,4 @@ public class ExpenseService {
         }
     }
 }
+

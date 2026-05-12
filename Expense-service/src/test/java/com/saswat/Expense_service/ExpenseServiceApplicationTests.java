@@ -1,4 +1,4 @@
-package com.saswat.Expense_service;
+package com.kritansh.Expense_service;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -6,3 +6,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ExpenseServiceApplicationTests {
 
 }
+

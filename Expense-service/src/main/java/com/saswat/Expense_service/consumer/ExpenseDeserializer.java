@@ -1,7 +1,7 @@
-package com.saswat.Expense_service.consumer;
+package com.kritansh.Expense_service.consumer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.saswat.Expense_service.dto.ExpenseDto;
+import com.kritansh.Expense_service.dto.ExpenseDto;
 import org.apache.kafka.common.serialization.Deserializer;
 
 import java.util.Map;
@@ -29,3 +29,4 @@ public class ExpenseDeserializer implements Deserializer<ExpenseDto> {
 
     }
 }
+

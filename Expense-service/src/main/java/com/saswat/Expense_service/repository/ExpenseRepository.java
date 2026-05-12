@@ -1,6 +1,6 @@
-package com.saswat.Expense_service.repository;
+package com.kritansh.Expense_service.repository;
 
-import com.saswat.Expense_service.entities.Expense;
+import com.kritansh.Expense_service.entities.Expense;
 import org.springframework.data.repository.CrudRepository;
 
 import java.sql.Timestamp;
@@ -13,3 +13,4 @@ public interface ExpenseRepository extends CrudRepository<Expense,Long> {
     Optional<Expense> findByUserIdAndExternalId(String userId,String externalId);
 
 }
+

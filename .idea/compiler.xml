@@ -38,10 +38,10 @@
       <module name="Userservice.app" options="-parameters" />
       <module name="Userservice.app.main" options="-parameters" />
       <module name="Userservice.app.test" options="-parameters" />
-      <module name="com.saswat.Datascience-service.main" options="-parameters" />
-      <module name="com.saswat.Datascience-service.test" options="-parameters" />
-      <module name="com.saswat.Expense-service.main" options="-parameters" />
-      <module name="com.saswat.Expense-service.test" options="-parameters" />
+      <module name="com.kritansh.Datascience-service.main" options="-parameters" />
+      <module name="com.kritansh.Datascience-service.test" options="-parameters" />
+      <module name="com.kritansh.Expense-service.main" options="-parameters" />
+      <module name="com.kritansh.Expense-service.test" options="-parameters" />
       <module name="expense-tracker-app.AuthService.app" options="-parameters" />
       <module name="expense-tracker-app.AuthService.app.main" options="-parameters" />
       <module name="expense-tracker-app.AuthService.app.test" options="-parameters" />

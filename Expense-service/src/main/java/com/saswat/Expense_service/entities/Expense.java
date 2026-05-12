@@ -1,4 +1,4 @@
-package com.saswat.Expense_service.entities;
+package com.kritansh.Expense_service.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
@@ -59,3 +59,4 @@ public class Expense {
 
 
 }
+

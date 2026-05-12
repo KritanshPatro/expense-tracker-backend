@@ -1,4 +1,4 @@
-package com.saswat.Datascience_service;
+package com.kritansh.Datascience_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -11,3 +11,4 @@ class DatascienceServiceApplicationTests {
 	}
 
 }
+

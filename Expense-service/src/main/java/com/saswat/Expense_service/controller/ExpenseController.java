@@ -1,7 +1,7 @@
-package com.saswat.Expense_service.controller;
+package com.kritansh.Expense_service.controller;
 
-import com.saswat.Expense_service.dto.ExpenseDto;
-import com.saswat.Expense_service.service.ExpenseService;
+import com.kritansh.Expense_service.dto.ExpenseDto;
+import com.kritansh.Expense_service.service.ExpenseService;
 import lombok.NonNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -50,3 +50,4 @@ public class ExpenseController {
 
 
 }
+

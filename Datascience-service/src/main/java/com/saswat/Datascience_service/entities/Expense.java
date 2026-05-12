@@ -1,4 +1,4 @@
-package com.saswat.Datascience_service.entities;
+package com.kritansh.Datascience_service.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
@@ -20,3 +20,4 @@ public class Expense {
     private String currency;
     private String userId;
 }
+

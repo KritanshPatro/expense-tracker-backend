@@ -20,3 +20,4 @@ import lombok.NoArgsConstructor;
 public class RefreshTokenRequestDTO {
     private String token;
 }
+

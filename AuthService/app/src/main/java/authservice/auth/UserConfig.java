@@ -13,3 +13,4 @@ public class UserConfig {
         return new BCryptPasswordEncoder();
     }
 }
+

@@ -12,3 +12,4 @@ EXPOSE 9820
 
 # Run the application
 ENTRYPOINT ["java", "-jar", "app.jar"]
+
